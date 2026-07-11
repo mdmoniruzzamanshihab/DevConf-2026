@@ -241,5 +241,57 @@
     border: 1px solid #666 !important;
     color: #666 !important;
 }
+.hackathon{
+    max-width:1280px;
+    margin:100px auto;
+    padding:70px;
+    border-radius:12px;
+    text-align:center;
+    background:#0d1b2a;
+    color:white;
+}
+
+.tag{
+    display:inline-block;
+    color:#7ea4ff;
+    font-size:13px;
+    font-weight:700;
+    margin-bottom:15px;
+}
+
+.hackathon h2{
+    font-size:48px;
+    margin-bottom:20px;
+}
+
+.hackathon p{
+    max-width:700px;
+    margin:0 auto;
+    color:#d8d8d8;
+    line-height:1.7;
+}
+
+.hackathon-info{
+    display:grid;
+    grid-template-columns:repeat(3,1fr);
+    gap:25px;
+    margin:50px 0;
+}
+
+.box{
+    background:#13263c;
+    padding:30px;
+    border-radius:10px;
+}
+
+.box h3{
+    font-size:40px;
+    color:#2d5bff;
+    margin-bottom:10px;
+}
+
+.box p{
+    color:#ddd;
+}
 
 
