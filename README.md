@@ -1,46 +1,43 @@
-DevConf 2026
+# DevConf 2026
 
-....Overview
+DevConf 2026 is a modern conference landing page built using HTML and CSS. The project presents a clean interface for a fictional developer conference.
 
-DevConf 2026 is a conference landing page created using HTML and CSS. The website showcases a fictional developer conference with a modern and clean design. It includes sections for speakers, pricing, an AI hackathon, and a footer with social media links.
+## Features
 
-....Features
+NavBar with smooth interface
 
-Navigation bar
+Hero banner with background image and gradient overlay
 
-Hero banner with background image and gradient
+Speakers section displayed using CSS Grid
 
-Speakers section
-
-Pricing plans
+Pricing section with three plans
 
 AI Hackathon section
 
-Footer with logo and social media icons
+Footer with logo, social media icons, divider, and copyright
 
-....Technology Stack
+## Technologies Used
 
 HTML5
 
 CSS3
 
-CSS Flexbox
+Flexbox
 
 CSS Grid
 
 Font Awesome
 
-....Future Work
 
-Add responsive design for mobile and tablet devices
+## How to Run
 
-Create a conference schedule section
+Download or clone the project.
 
-Add venue and location information
+Open the project folder.
 
-Include registration form with JavaScript validation
+Run the index.html file in any modern web browser.
 
-Improve accessibility and animations
+## Project Purpose
 
-
+This project was created as a front-end practice to improve HTML and CSS skills while designing a professional conference landing page.
 
